@@ -141,9 +141,9 @@ params:
 
     imageProcessing:
         cover:
-            enabled: false
+            enabled: true
         content:
-            enabled: false
+            enabled: true
 markup:
     goldmark:
         renderer:
