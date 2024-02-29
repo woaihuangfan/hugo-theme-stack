@@ -20,8 +20,8 @@ params:
 
     sidebar:
         compact: false
-        emoji:
-        subtitle:
+        emoji: 🍚
+        subtitle: The only way of humans have figured out of getting somewhere is to leave something behind.
         avatar:
             enabled: true
             local: true
